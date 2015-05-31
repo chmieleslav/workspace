@@ -2,3 +2,5 @@ some random text file with a couple of words in it.
 New line. Some more words. 
 New line. Some more words. 
 New line again. Just in case.
+
+Some new text in a new line!
