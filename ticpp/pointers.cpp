@@ -14,15 +14,15 @@ int main (void)
 	
 	int *p1 = &a;
 	cout << "address of a:\t" << &a << endl;
-	cout << "value of p1:\t" << p1 << endl;
+	cout << "value of p1:\t" << p1 << endl << endl;
 	
 	int *p2 = &b;
 	cout << "address of b:\t" << &b << endl;
-	cout << "value of p2:\t" << p2 << endl;
+	cout << "value of p2:\t" << p2 << endl << endl;
 	
 	float *p3 = &c;
 	cout << "address of b:\t" << &c << endl;
-	cout << "value of p2:\t" << p3 << endl;
+	cout << "value of p2:\t" << p3 << endl << endl;
 	 
 	
 	
