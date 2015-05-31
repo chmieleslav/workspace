@@ -4,7 +4,7 @@ all: main.o ch3_ex1.o
 main.o: main.cpp
 	g++ -c main.cpp
  
-ch3_ex1_polymorph.o: ch3_ex1.cpp
+ch3_ex1.o: ch3_ex1.cpp
 	g++ -c ch3_ex1.cpp
  
 
