@@ -5,6 +5,12 @@
 // Copyright notice in Copyright.txt
 //{L} printBinary
 // Demonstration of bit manipulation
+
+/*
+Modify p Boolean.cpp and p Bitwise.cpp so they use the
+explicit operators (if your compiler is conformant to the
+C++ Standard it will support these).
+*/
 #include "printBinary.h"
 #include <iostream>
 using namespace std;

@@ -11,3 +11,9 @@ void printBinary(const unsigned char val) {
     else
       std::cout << "0";
 } ///:~
+
+
+/*
+ * some silly comment
+ * to be discarded
+ */
