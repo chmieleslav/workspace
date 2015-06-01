@@ -1,9 +1,9 @@
 #include <iostream>
 /*
-Create two functions, one that takes a * string* and one
-that takes a  string&. Each of these functions should
-modify the outside  string object in its own unique way.
-In ) main( ), create and initialize a  string object, print it,
+Create two functions, one that takes a string* and one
+that takes a string&. Each of these functions should
+modify the outside string object in its own unique way.
+In main(), create and initialize a string object, print it,
 then pass it to each of the two functions, printing the
 results.
 */
