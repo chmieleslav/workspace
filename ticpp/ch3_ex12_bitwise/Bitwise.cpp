@@ -7,7 +7,7 @@
 // Demonstration of bit manipulation
 
 /*
-Modify p Boolean.cpp and p Bitwise.cpp so they use the
+Modify Boolean.cpp and Bitwise.cpp so they use the
 explicit operators (if your compiler is conformant to the
 C++ Standard it will support these).
 */
