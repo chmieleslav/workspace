@@ -1,0 +1,14 @@
+C:\workspace\Visual CSharp Step By Step\sbs_graphicalApp\WPFApp\WPFApp\WPFApp\bin\Debug\WPFApp.exe.config
+C:\workspace\Visual CSharp Step By Step\sbs_graphicalApp\WPFApp\WPFApp\WPFApp\bin\Debug\WPFApp.exe
+C:\workspace\Visual CSharp Step By Step\sbs_graphicalApp\WPFApp\WPFApp\WPFApp\bin\Debug\WPFApp.pdb
+C:\workspace\Visual CSharp Step By Step\sbs_graphicalApp\WPFApp\WPFApp\WPFApp\obj\Debug\WPFApp.csprojResolveAssemblyReference.cache
+C:\workspace\Visual CSharp Step By Step\sbs_graphicalApp\WPFApp\WPFApp\WPFApp\obj\Debug\MainWindow.g.cs
+C:\workspace\Visual CSharp Step By Step\sbs_graphicalApp\WPFApp\WPFApp\WPFApp\obj\Debug\App.g.cs
+C:\workspace\Visual CSharp Step By Step\sbs_graphicalApp\WPFApp\WPFApp\WPFApp\obj\Debug\WPFApp_MarkupCompile.cache
+C:\workspace\Visual CSharp Step By Step\sbs_graphicalApp\WPFApp\WPFApp\WPFApp\obj\Debug\WPFApp_MarkupCompile.lref
+C:\workspace\Visual CSharp Step By Step\sbs_graphicalApp\WPFApp\WPFApp\WPFApp\obj\Debug\MainWindow.baml
+C:\workspace\Visual CSharp Step By Step\sbs_graphicalApp\WPFApp\WPFApp\WPFApp\obj\Debug\WPFApp.g.resources
+C:\workspace\Visual CSharp Step By Step\sbs_graphicalApp\WPFApp\WPFApp\WPFApp\obj\Debug\WPFApp.Properties.Resources.resources
+C:\workspace\Visual CSharp Step By Step\sbs_graphicalApp\WPFApp\WPFApp\WPFApp\obj\Debug\WPFApp.csproj.GenerateResource.Cache
+C:\workspace\Visual CSharp Step By Step\sbs_graphicalApp\WPFApp\WPFApp\WPFApp\obj\Debug\WPFApp.exe
+C:\workspace\Visual CSharp Step By Step\sbs_graphicalApp\WPFApp\WPFApp\WPFApp\obj\Debug\WPFApp.pdb

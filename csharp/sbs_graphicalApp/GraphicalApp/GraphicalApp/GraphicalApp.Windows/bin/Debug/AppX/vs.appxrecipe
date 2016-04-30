@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CHMIEL</Machine>
+    <WindowsUser>Piotr</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>c54509dc-d9d1-422b-935b-4df85e8f75ca</PackageIdentityName>
+    <IntermediateOutputPath>C:\workspace\Visual CSharp Step By Step\sbs_graphicalApp\GraphicalApp\GraphicalApp\GraphicalApp.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>5738FB5016203825519B7A69338AEDFDD459562262EACC6EEB35E742C5C2E3DD</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c54509dc-d9d1-422b-935b-4df85e8f75ca_1.0.0.0_neutral__narej35hvmwqj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c54509dc-d9d1-422b-935b-4df85e8f75ca_narej35hvmwqj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c54509dc-d9d1-422b-935b-4df85e8f75ca</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Piotr</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\workspace\Visual CSharp Step By Step\sbs_graphicalApp\GraphicalApp\GraphicalApp\GraphicalApp.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-24T19:07:11.398</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\workspace\Visual CSharp Step By Step\sbs_graphicalApp\GraphicalApp\GraphicalApp\GraphicalApp.Windows\bin\Debug\GraphicalApp.Windows.exe">
+      <PackagePath>GraphicalApp.Windows.exe</PackagePath>
+      <Modified>2016-04-24T19:07:11.130</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Visual CSharp Step By Step\sbs_graphicalApp\GraphicalApp\GraphicalApp\GraphicalApp.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T20:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Visual CSharp Step By Step\sbs_graphicalApp\GraphicalApp\GraphicalApp\GraphicalApp.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T20:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Visual CSharp Step By Step\sbs_graphicalApp\GraphicalApp\GraphicalApp\GraphicalApp.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T20:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Visual CSharp Step By Step\sbs_graphicalApp\GraphicalApp\GraphicalApp\GraphicalApp.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T20:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Visual CSharp Step By Step\sbs_graphicalApp\GraphicalApp\GraphicalApp\GraphicalApp.Windows\bin\Debug\GraphicalApp.Windows.xr.xml">
+      <PackagePath>GraphicalApp.Windows.xr.xml</PackagePath>
+      <Modified>2016-04-24T19:07:10.935</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Visual CSharp Step By Step\sbs_graphicalApp\GraphicalApp\GraphicalApp\GraphicalApp.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-04-24T19:07:11.013</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Visual CSharp Step By Step\sbs_graphicalApp\GraphicalApp\GraphicalApp\GraphicalApp.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-04-24T19:07:11.030</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Visual CSharp Step By Step\sbs_graphicalApp\GraphicalApp\GraphicalApp\GraphicalApp.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-04-24T19:07:11.235</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

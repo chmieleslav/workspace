@@ -1,0 +1,1 @@
+C:\workspace\Visual CSharp Step By Step\sbs_graphicalApp\GraphicalApp\GraphicalApp\GraphicalApp.Windows\GraphicalApp.Windows.csproj;neutral

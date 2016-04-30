@@ -1,0 +1,6 @@
+C:\workspace\Visual CSharp Step By Step\sbs_MyOwnApp\MyOwnApp\MyOwnApp\bin\Debug\MyOwnApp.exe.config
+C:\workspace\Visual CSharp Step By Step\sbs_MyOwnApp\MyOwnApp\MyOwnApp\bin\Debug\MyOwnApp.exe
+C:\workspace\Visual CSharp Step By Step\sbs_MyOwnApp\MyOwnApp\MyOwnApp\bin\Debug\MyOwnApp.pdb
+C:\workspace\Visual CSharp Step By Step\sbs_MyOwnApp\MyOwnApp\MyOwnApp\obj\Debug\MyOwnApp.csprojResolveAssemblyReference.cache
+C:\workspace\Visual CSharp Step By Step\sbs_MyOwnApp\MyOwnApp\MyOwnApp\obj\Debug\MyOwnApp.exe
+C:\workspace\Visual CSharp Step By Step\sbs_MyOwnApp\MyOwnApp\MyOwnApp\obj\Debug\MyOwnApp.pdb
