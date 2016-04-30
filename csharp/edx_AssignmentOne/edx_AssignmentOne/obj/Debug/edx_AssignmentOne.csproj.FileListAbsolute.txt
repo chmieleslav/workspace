@@ -1,6 +1,0 @@
-C:\workspace\Visual CSharp Step By Step\edx_AssignmentOne\edx_AssignmentOne\bin\Debug\edx_AssignmentOne.exe.config
-C:\workspace\Visual CSharp Step By Step\edx_AssignmentOne\edx_AssignmentOne\bin\Debug\edx_AssignmentOne.exe
-C:\workspace\Visual CSharp Step By Step\edx_AssignmentOne\edx_AssignmentOne\bin\Debug\edx_AssignmentOne.pdb
-C:\workspace\Visual CSharp Step By Step\edx_AssignmentOne\edx_AssignmentOne\obj\Debug\edx_AssignmentOne.csprojResolveAssemblyReference.cache
-C:\workspace\Visual CSharp Step By Step\edx_AssignmentOne\edx_AssignmentOne\obj\Debug\edx_AssignmentOne.exe
-C:\workspace\Visual CSharp Step By Step\edx_AssignmentOne\edx_AssignmentOne\obj\Debug\edx_AssignmentOne.pdb
