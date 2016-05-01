@@ -7,6 +7,13 @@
 *.o
 *.so
 *.pyc
+
+# Some other binary formats #
+#############################
+*.bin
+*.pdb
+*.suo
+*.cache
  
 # Packages #
 ############
