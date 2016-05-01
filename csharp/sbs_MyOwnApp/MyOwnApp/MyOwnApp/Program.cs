@@ -124,8 +124,10 @@ namespace MyOwnApp
 
             /* enums */
             Season colorful = Season.Fall;
-            Console.WriteLine(colorful); 
-
+            Console.WriteLine(colorful);
+            string colorful_str = colorful.ToString();
+            Console.WriteLine(colorful_str);
+            
             Console.ReadLine();
 
         }
