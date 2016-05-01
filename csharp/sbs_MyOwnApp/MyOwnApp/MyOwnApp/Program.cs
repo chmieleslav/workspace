@@ -50,7 +50,12 @@ namespace MyOwnApp
         {
             p = 55;
         }
+
     }
+
+    enum Season {Spring, Summer, Fall, Winter}
+
+
 
     class Program
     {
@@ -70,7 +75,7 @@ namespace MyOwnApp
             Console.WriteLine("Calculating the area of circle1: ");
             Console.WriteLine(circle1.CalculateArea());
 
-            Console.ReadLine();
+            //Console.ReadLine();
 
             Circle circle2 = new Circle(5);
             Console.WriteLine("Creating circle2 with initial radius: 5");
@@ -78,13 +83,13 @@ namespace MyOwnApp
             Console.WriteLine("Calculating the area of circle2: ");
             Console.WriteLine(circle2.CalculateArea());
 
-            Console.ReadLine();
+            //Console.ReadLine();
 
             Console.WriteLine("Creating circle3 with initial radius: 7");
             Circle circle3 = new Circle(7);
             Console.WriteLine("Total nb of corcles: {0}", Circle.NumCircles);
 
-            Console.ReadLine();
+            //Console.ReadLine();
 
             int param = 7;
             Console.WriteLine("Passing param to be incremented: 7");
@@ -99,7 +104,7 @@ namespace MyOwnApp
             Circle.InitializeParam(out param2);
             Console.WriteLine("Param after initialization: {0}", param2);
 
-            Console.ReadLine();
+            //Console.ReadLine();
 
             object obj1 = new object();
             object obj2 = obj1;
@@ -116,6 +121,10 @@ namespace MyOwnApp
             {
                 Console.WriteLine("Objects are not the same");
             }
+
+            /* enums */
+            Season colorful = Season.Fall;
+            Console.WriteLine(colorful); 
 
             Console.ReadLine();
 
