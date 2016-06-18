@@ -27,11 +27,11 @@ def getLinksFromOneResultPage():
 		"""
 		This script returns for each element a structure similar to this :
 		{
-			u'title': u'Espace (SARL)', 
-			u'data-pjstats': u'{"idTag":"DENOMINATION-EXACTE","pos":6,"genreBloc":"1"}', 
-			u'data-pjlb': u'{"keepspan":0,"url":"L3Byb3MvMDkxODE5MDg=","ucod":"b64u8"}', 
-			u'data-pjsearchctx-sethref': u'', 
-			u'href': u'#', 
+			u'title': u'Espace (SARL)',
+			u'data-pjstats': u'{"idTag":"DENOMINATION-EXACTE","pos":6,"genreBloc":"1"}',
+			u'data-pjlb': u'{"keepspan":0,"url":"L3Byb3MvMDkxODE5MDg=","ucod":"b64u8"}',
+			u'data-pjsearchctx-sethref': u'',
+			u'href': u'#',
 			u'class': u'bi-pos-links pj-lb pj-link'
 		}
 		And the "url" value is a base64-encoded link to "More info" page which we want to scrap.
@@ -74,7 +74,7 @@ while True:
 	time.sleep(3)
 	getLinksFromOneResultPage()
 
-	try: 
+	try:
 		browser.find_element_by_css_selector(".disabled.next")
 		print "NO MORE PAGES, END"
 		break

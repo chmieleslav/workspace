@@ -106,6 +106,7 @@ namespace MyOwnApp
 
             //Console.ReadLine();
 
+            /* System.Object */
             object obj1 = new object();
             object obj2 = obj1;
 
@@ -127,6 +128,12 @@ namespace MyOwnApp
             Console.WriteLine(colorful);
             string colorful_str = colorful.ToString();
             Console.WriteLine(colorful_str);
+
+            /* arrays */
+            int[] pins;
+            pins = new int[4];
+
+            
             
             Console.ReadLine();
 
